@@ -1,4 +1,5 @@
 Whoami
+
 Seldomspeechless, 38
 Occupation: Student, Freelancer, Securityfanatic
 Learning: Python, 67 > Godot, 25 > Pygame, 8
