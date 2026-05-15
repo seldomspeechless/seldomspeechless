@@ -7,7 +7,7 @@
 .whoami
 Seldomspeechless, 42
 Occupation: (Unemployed) Freelance Fullstack Developer
-Learning: C#, 67 > Python, 33
+Learning: C & Raylib
 Personality: Mediator INFP, somewhat Introverted
 
 .experiences
